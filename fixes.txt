@@ -1,3 +1,7 @@
 fixed bug 1
 
-fixed bug 2
+fixed bug 2.
+
+another bug detected and fixed.
+
+
